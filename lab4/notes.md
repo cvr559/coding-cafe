@@ -2,8 +2,6 @@
 
 2.when ls is entered .git did not appear but when ls -a is entered .git is also shown.ls -a shows hidden files.
 
-2.when ls is entered .git did not appear but when ls -a is entered .git is also shown.ls -a shows hidden files.
-
 3.There are 3 folders that git is offering to track.No there is nothing in the list that i didn't write.
 
 4.Nothing dissappeared as it previously didnt show .venv/ files.The only thing which got added is .gitignore file which we added in Section3
